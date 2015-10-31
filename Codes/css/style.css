@@ -1,0 +1,236 @@
+/*!
+ * Start Bootstrap - Creative Bootstrap Theme (http://startbootstrap.com)
+ * Code licensed under the Apache License v2.0.
+ * For details, see http://www.apache.org/licenses/LICENSE-2.0.
+ */
+
+.bg-color{ background-color:white;padding-top: 10px;}
+.img-padd a{padding: 1px 6px 5px 6px;}
+.header-display ul li{display:inline;}
+.header-display ul li{display:inline;}
+.header-display{float: left;
+    width: 100%;}
+	.contact_us-bg{border: 1px solid #f78200;
+   
+    color: white;
+    border-radius: 4px;
+    background-color: #f78200;}
+.contact_us-bg:hover{
+text-decoration:none;
+}
+.bg-color-blue { background-color: #0D28E8;}
+.full{width:100%;}
+.facebook-btn {
+    background: #fff none repeat scroll 0 0;
+    border-radius: 10px;
+    color: #3a589a;
+    display: inline-block;
+    font-size: 14px;
+    height: 49px;
+    line-height: 48px;
+    margin-right: 80px;
+    margin-top: 20px;
+    padding: 0 28px;
+    position: relative;
+    width: 275px;
+}
+.facebook-btn:hover {
+   text-decoration:none;
+}
+.facebook-icon-height{    border-radius: 4px;
+   
+    color: white;
+    background-color: #5F72F9;
+    width: 31px;
+    height: 24px;
+    padding: 6px 0px 0px 11px;
+}
+.marg-t-0 p{ margin-bottom: 0px!important; margin: 28px 0 10px!important;}
+.top10 {
+  margin-top: 103px !important;
+}
+.input-group {
+    border-collapse: separate;
+    display: table;
+    position: relative;
+}
+.error-msg-input{    height: 40px;
+    width: 50%;
+    border-radius: 8px;
+}
+  .input-group-addotuy{padding: 11px;
+    /* height: 240px; */
+    background-color: white;
+	border-radius: 8px;
+  }
+  .theme_button1 {
+    float: right;
+}
+.theme_button {
+    font-size: inherit;
+    padding: 10px 20px;
+    line-height: 1;
+    display: inline-block;
+    background-color: transparent;
+    color: #ffffff;
+    text-transform: uppercase;
+    border: 1px solid #EFA74E;
+    background-color: #EFA74E;
+    -webkit-border-radius: 2px;
+    border-radius: 2px;
+    position: relative;
+    -webkit-transition: all 0.4s linear 0s;
+    -moz-transition: all 0.4s linear 0s;
+    -o-transition: all 0.4s linear 0s;
+    -ms-transition: all 0.4s linear 0s;
+    transition: all 0.4s linear 0s;
+}
+
+.btn {
+	color: #6565F5;
+	background-color: white;
+    display: inline-block;
+    padding: 6px 12px;
+    margin-bottom: 0;
+    font-size: 14px;
+    font-weight: normal;
+    line-height: 1.428571429;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    cursor: pointer;
+    background-image: none;
+    border: 1px solid transparent;
+    border-radius: 4px;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    -o-user-select: none;
+    user-select: none;
+}
+.color-already{ color:white!important;}
+.float-left-width{float: left;
+    width: 47%;}
+
+ .float-left-width1{float: right;
+    width: 50%;}
+p {
+    margin-bottom: 36px!important;
+    font-size: 16px;
+    line-height: 1.5;
+}
+.socaillogin{    width: 100%;
+    float: left;
+}
+.height-60{height:60px;}
+.padd-0{padding:0px;}
+.marg-b-10{margin-bottom:10px;}
+.padd-90{padding-top:90px;text-align:center;}
+.border-1px{border: 1px solid white;}
+.background_1 label{color:black;}
+.color-already-black{color:black;}
+.border-1px-balack{border:1px solid rgb(208, 208, 208);}
+.marg-t-b{margin-top: 20px;
+    margin-bottom: 10px;padding: 10px;}
+.marg-t-20
+{
+        	margin-top: 20px;
+    	}
+.cursor-point{
+    cursor: pointer;
+}
+.height-100
+{
+ height:100px;
+ background-color: #A0A0A0;
+ }
+.font-color
+{
+ color:black!important;
+}
+ .wid-10p
+ {
+     width: 10%;
+ }
+ .rhtdv p
+ {
+ margin-bottom: 10px!important;
+ }
+ .sidebar a
+ {
+ color: #444444;
+ }
+ .tab-pane td
+ {
+     padding: 20px;
+ }
+ .tab-pane p
+ {
+     padding: 20px;
+ }
+ .padd ul li
+ {
+     padding:10px;
+ }
+ .border-1px
+ {
+    border: 1px solid #EAD3D3;
+    padding: 12px;
+ }
+ .padd-0 p
+ {
+     padding: 0px !important;
+ }
+ .score
+ {
+     background-color: #AFAAAA;
+
+ }
+ .score p
+ {
+     text-align: center;
+
+ }
+ .Negative-score
+ {
+     background-color: rgba(214, 51, 51, 0.18);
+
+ }
+ .Negative-score p
+ {
+    text-align: center;
+
+ }
+ .welcome
+ {
+     margin-top: 100px;
+
+ }
+ .padd-5 td
+ {
+     padding: 5px;
+ }
+ .padd-l-r-t-b
+ {
+         padding-top: 10px;
+    float: left;
+    width: 100%;
+text-align: center;
+ }
+ .full
+ {
+     width: 100%;
+ }
+ #errors, #pass_errors, #con_pass_errors, #name_errors, #add_errors, #city_errors, #phone_errors, #email_errors, #errors_login{
+     color: red;
+}
+.padd-15
+{
+    padding-top: 15px;
+}
+
+
+@media (min-width: 768px){}
+.navbar-default .nav > li>a, .navbar-default .nav>li>a:focus {
+    color:black!important;
+}}
